@@ -84,3 +84,8 @@ print(str(linked_list))
 
 # output will be "{5}->{2}->{25}" for example
 ```
+
+
+
+
+[Open Pull Request](https://github.com/MusaabShalaldeh/pythonisms/pulls)
